@@ -1,0 +1,19 @@
+.main_content{
+background-color: #86b6c5;
+}
+
+ul li{
+list-style-type: none;
+line-height: 1.5;
+text-transform: uppercase;
+font-size: 1.25rem
+}
+
+.container-1600{
+padding-left: 15px;
+padding-right: 15px;
+margin: auto;
+position: relative;
+max-width: 1600px;
+width: 100%;
+}
